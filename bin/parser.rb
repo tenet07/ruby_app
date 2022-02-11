@@ -1,5 +1,5 @@
 require 'pry'
-require_relative 'urlEntry'
+require_relative 'url_entry'
 
 class Parser
 
